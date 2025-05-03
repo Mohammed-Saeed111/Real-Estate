@@ -1,6 +1,5 @@
 Real Estate Project
 
-Overview
 This is a real estate website project designed to help users explore properties for sale or rent. The project features an easy-to-use interface that allows users to search for properties with various filters, such as price, location, and property type.
 
 Features
